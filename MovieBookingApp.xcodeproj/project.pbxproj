@@ -13,6 +13,15 @@
 		2F27B43627F3F75B000BB5FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B43427F3F75B000BB5FD /* Main.storyboard */; };
 		2F27B43827F3F75C000BB5FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B43727F3F75C000BB5FD /* Assets.xcassets */; };
 		2F27B43B27F3F75C000BB5FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B43927F3F75C000BB5FD /* LaunchScreen.storyboard */; };
+		2F27B44327F3FC6C000BB5FD /* movielogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B44227F3FC6C000BB5FD /* movielogo.png */; };
+		2F27B44727F3FE37000BB5FD /* thelostcity.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B44627F3FE37000BB5FD /* thelostcity.jpeg */; };
+		2F27B44927F3FE53000BB5FD /* morbius.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B44827F3FE53000BB5FD /* morbius.jpeg */; };
+		2F27B44B27F3FE5F000BB5FD /* batman.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B44A27F3FE5F000BB5FD /* batman.jpeg */; };
+		2F27B44D27F3FE71000BB5FD /* x.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B44C27F3FE71000BB5FD /* x.jpeg */; };
+		2F27B44F27F3FE7E000BB5FD /* theoutfit.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B44E27F3FE7E000BB5FD /* theoutfit.jpeg */; };
+		2F27B45127F3FFBC000BB5FD /* sonic2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B45027F3FFBC000BB5FD /* sonic2.jpeg */; };
+		2F27B45327F4100D000BB5FD /* MainPageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F27B45227F4100D000BB5FD /* MainPageVC.swift */; };
+		2F27B45527F4137F000BB5FD /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F27B45427F4137F000BB5FD /* location.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +33,15 @@
 		2F27B43727F3F75C000BB5FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F27B43A27F3F75C000BB5FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F27B43C27F3F75C000BB5FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F27B44227F3FC6C000BB5FD /* movielogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = movielogo.png; path = ../../../Downloads/movielogo.png; sourceTree = "<group>"; };
+		2F27B44627F3FE37000BB5FD /* thelostcity.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = thelostcity.jpeg; path = ../../../Documents/thelostcity.jpeg; sourceTree = "<group>"; };
+		2F27B44827F3FE53000BB5FD /* morbius.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = morbius.jpeg; path = ../../../Documents/morbius.jpeg; sourceTree = "<group>"; };
+		2F27B44A27F3FE5F000BB5FD /* batman.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = batman.jpeg; path = ../../../Documents/batman.jpeg; sourceTree = "<group>"; };
+		2F27B44C27F3FE71000BB5FD /* x.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = x.jpeg; path = ../../../Documents/x.jpeg; sourceTree = "<group>"; };
+		2F27B44E27F3FE7E000BB5FD /* theoutfit.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = theoutfit.jpeg; path = ../../../Documents/theoutfit.jpeg; sourceTree = "<group>"; };
+		2F27B45027F3FFBC000BB5FD /* sonic2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sonic2.jpeg; path = ../../../Documents/sonic2.jpeg; sourceTree = "<group>"; };
+		2F27B45227F4100D000BB5FD /* MainPageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageVC.swift; sourceTree = "<group>"; };
+		2F27B45427F4137F000BB5FD /* location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = location.png; path = ../../../Documents/location.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +81,15 @@
 				2F27B43727F3F75C000BB5FD /* Assets.xcassets */,
 				2F27B43927F3F75C000BB5FD /* LaunchScreen.storyboard */,
 				2F27B43C27F3F75C000BB5FD /* Info.plist */,
+				2F27B44227F3FC6C000BB5FD /* movielogo.png */,
+				2F27B44627F3FE37000BB5FD /* thelostcity.jpeg */,
+				2F27B44827F3FE53000BB5FD /* morbius.jpeg */,
+				2F27B44A27F3FE5F000BB5FD /* batman.jpeg */,
+				2F27B44C27F3FE71000BB5FD /* x.jpeg */,
+				2F27B44E27F3FE7E000BB5FD /* theoutfit.jpeg */,
+				2F27B45027F3FFBC000BB5FD /* sonic2.jpeg */,
+				2F27B45227F4100D000BB5FD /* MainPageVC.swift */,
+				2F27B45427F4137F000BB5FD /* location.png */,
 			);
 			path = MovieBookingApp;
 			sourceTree = "<group>";
@@ -125,7 +152,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F27B44F27F3FE7E000BB5FD /* theoutfit.jpeg in Resources */,
+				2F27B44B27F3FE5F000BB5FD /* batman.jpeg in Resources */,
 				2F27B43B27F3F75C000BB5FD /* LaunchScreen.storyboard in Resources */,
+				2F27B44D27F3FE71000BB5FD /* x.jpeg in Resources */,
+				2F27B44327F3FC6C000BB5FD /* movielogo.png in Resources */,
+				2F27B45127F3FFBC000BB5FD /* sonic2.jpeg in Resources */,
+				2F27B44727F3FE37000BB5FD /* thelostcity.jpeg in Resources */,
+				2F27B44927F3FE53000BB5FD /* morbius.jpeg in Resources */,
+				2F27B45527F4137F000BB5FD /* location.png in Resources */,
 				2F27B43827F3F75C000BB5FD /* Assets.xcassets in Resources */,
 				2F27B43627F3F75B000BB5FD /* Main.storyboard in Resources */,
 			);
@@ -140,6 +175,7 @@
 			files = (
 				2F27B43327F3F75B000BB5FD /* ViewController.swift in Sources */,
 				2F27B42F27F3F75B000BB5FD /* AppDelegate.swift in Sources */,
+				2F27B45327F4100D000BB5FD /* MainPageVC.swift in Sources */,
 				2F27B43127F3F75B000BB5FD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -2,7 +2,9 @@
 //  ViewController.swift
 //  MovieBookingApp
 //
-//  Created by Shrinal Patel on 29/03/22.
+//  Authors: Shrinal Patel (301204864)
+//           Ridham Patel (301207688)
+//           Pushparaj Sanjeevan (301213104)
 //
 
 import UIKit
